@@ -1,0 +1,8 @@
+ALLMENU Native Flow Update
+
+- .allmenu now uses the bot's built-in Button/Native Flow builder.
+- Native Flow includes messageParamsJson and the standard relay node.
+- Category choices are split into sections of 10 for compatibility.
+- .owner carousel was not modified.
+- .menu and other commands were not modified.
+- If Native Flow construction/sending throws an error, .allmenu falls back to the normal text menu.

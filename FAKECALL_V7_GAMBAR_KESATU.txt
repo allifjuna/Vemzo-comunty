@@ -1,0 +1,5 @@
+Fakecall v7 - Gambar Kesatu
+- Menjadikan gambar kesatu yang dikirim pengguna sebagai avatar tetap fitur .fakecall.
+- Menambahkan assets/fakecall-avatar-kesatu.jpg hasil crop avatar dari gambar referensi.
+- Avatar reply/profile tidak lagi menggantikan avatar referensi.
+- Format .fakecall tetap: .fakecall Nama | Durasi
